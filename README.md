@@ -1,4 +1,4 @@
-<img src="https://prnt.sc/jbQ4FluRF0Zm">
+<img src="bg.png">
 
 [Nawaf Alqari](https://linksb.me/nawaf), Full-Stack Developer
 <br>
